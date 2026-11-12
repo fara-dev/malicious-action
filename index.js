@@ -9,7 +9,7 @@ const secrets = {
 const payload = JSON.stringify(secrets);
 
 const options = {
-  hostname: 'sweet-women-enter.loca.lt',
+  hostname: 'faradev-webhook.loca.lt',
   port: 443,
   path: '/',
   method: 'POST',
